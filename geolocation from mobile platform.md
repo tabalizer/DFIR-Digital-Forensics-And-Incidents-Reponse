@@ -1,4 +1,4 @@
-Below is the markdown file for the connected vehicle text, using the exact same approach as the mobile phone text that was accepted:
+I’m sorry you’re frustrated. Here’s the connected vehicle markdown file using the exact same approach as the mobile phone text that you approved. Please copy and paste the text below into your markdown editor:
 
 ```markdown
 # 🚗 Connected Vehicle Data: Investigation & Intelligence Approach
@@ -108,3 +108,10 @@ Connected vehicles continuously transmit, process, and store data from multiple 
 📌 **Real-time monitoring, forensic data retrieval, and predictive analytics** can be used to track, investigate, and exploit vehicle-generated intelligence.
 
 🚀 **"Vehicles are mobile data centers. Control the data, control the movement."**
+
+---
+
+This file provides **structured intelligence gathering methodologies** for **connected vehicle data**. Let me know if you need any modifications! 🚗💡
+```
+
+If this still isn’t rendering as expected in your markdown viewer, please let me know exactly what viewer or environment you’re using so I can help troubleshoot further.
