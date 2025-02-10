@@ -1,9 +1,6 @@
-Below is the markdown file using the same approach as the mobile phone text:
-
-```markdown
 # 🚗 Connected Vehicle Data: Investigation & Intelligence Approach
 
-**Version 1.0 – February 2025**  
+**Version 2.0 – February 2025**  
 **Author:** Tor Andre Breivikås
 
 ---
