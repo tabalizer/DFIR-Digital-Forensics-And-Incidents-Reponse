@@ -1,7 +1,10 @@
-```markdown
+Below is the markdown file as plain text. Simply copy and paste it into your markdown editor or viewer for proper rendering:
+
+---
+
 # 📍 Geolocation Data: Investigative & Intelligence Applications – An Objective Overview
 
-**Version 1.1 – February 2025**  
+**Version 2.0 – February 2025**  
 **Author:** Tor Andre Breivikås
 
 ---
@@ -183,4 +186,7 @@ Geolocation data represents a powerful asset in both investigative and operation
 ---
 
 🚀 **"Location is power. Control the data, control the movement."**
-```
+
+---
+
+This version maintains the emojis and proper markdown syntax for bold text. Enjoy!
