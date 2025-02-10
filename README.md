@@ -57,9 +57,9 @@ Version 1.0 – February 2025 – Author: Tor Andre Breivikås
 
 | File Name                              | Description                                                                 |
 | -------------------------------------- | --------------------------------------------------------------------------- |
-| `geolocation_intelligence.md`          | Guide on exploiting mobile device location data for intelligence and investigations. |
-| `connected_vehicle_intelligence.md`    | Framework for leveraging vehicle‑generated data for tracking and forensic analysis. |
-| `smart_home_intelligence.md`             | Methodologies for analyzing smart home IoT data for surveillance and operational intelligence. |
+| `Mobile_Geolocation.md`          | Guide on exploiting mobile device location data for intelligence and investigations. |
+| `Vehicle_Data.md`    | Framework for leveraging vehicle‑generated data for tracking and forensic analysis. |
+| `Smart_Home_&_Iot_Devices.md`             | Methodologies for analyzing smart home IoT data for surveillance and operational intelligence. |
 | `README.md`                            | This file – provides an overview of the project and its topics.             |
 
 ---
